@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+🌱 I am studying Back-End basics with @reprograma. I'm currently learning JavaScript. 
+
 <!--
 **lealclarissa/lealclarissa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
