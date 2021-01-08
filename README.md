@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-🌱 I am studying Backend with @reprograma. I'm currently learning JavaScript, Node.js, API-REST
-
+🌱 I've finished @reprograma 's bootcamp (backend on7 with MINAs). I'm currently focusing my studies in JavaScript, Node.js, API-REST, Agile.  
+🔭 I’m currently developing my own [project](https://github.com/lealclarissa/api-projeto-livre), as a way to practice more what I've learned during the bootcamp. And I'm open to work as well.  
+👯 I’m looking to collaborate on projects with Node  
+📫 You can reach me at [linkedin](https://www.linkedin.com/in/clarissa-leal/).
 <!--
 **lealclarissa/lealclarissa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
