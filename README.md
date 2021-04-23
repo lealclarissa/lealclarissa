@@ -7,12 +7,14 @@
 👯 I’m looking to collaborate on projects as back-end developer.  
 📫 You can reach me at [linkedin](https://www.linkedin.com/in/clarissa-leal/).
 
+__________________________
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lealclarissa&count_private=true&theme=nightowl&show_icons=true" />
+  <img height="180em" align="center"  src="https://github-readme-stats.vercel.app/api?username=lealclarissa&count_private=true&show_icons=true&theme=nightowl&hide_border=false&include_all_commits=true&layout=compact&)" />
 </a>
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lealclarissa&layout=compact" />
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lealclarissa&langs_count=8&layout=compact&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&)" />
 </a>
 
 <!--
