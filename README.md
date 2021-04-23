@@ -12,7 +12,6 @@ __________________________
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="180em" align="center"  src="https://github-readme-stats.vercel.app/api?username=lealclarissa&count_private=true&show_icons=true&theme=nightowl&hide_border=false&include_all_commits=true&layout=compact&)" />
 </a>
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lealclarissa&langs_count=8&layout=compact&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&)" />
 </a>
