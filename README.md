@@ -1,7 +1,7 @@
 ### Hi there/Olá! 👋
 
 🌱 I've started developing during @reprograma 's bootcamp (backend on7 with MINAs | aug - dec/20).   
-🔭 I'm currently studying: JavaScript(node.js) and Java.  
+🔭 I'm currently studying: JavaScript(node.js).  
 🔎 I'm also interested in and reading about agile methods (scrum, kanban), clean code, security and testing.  
 💗 I consider myself as a lifelong learner.  
 👯 I’m looking to collaborate on projects as back-end developer.  
