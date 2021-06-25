@@ -1,7 +1,7 @@
 ### Hi there/Olá! 👋
 
 🌱 I've started developing during @reprograma 's bootcamp (backend on7 with MINAs | aug - dec/20).   
-🔭 I'm currently taking Harvard's CS50's classes.
+🔭 I'm currently taking Harvard's CS50's classes.  
 💗 I consider myself as a lifelong learner.  
 👯 I’m looking to collaborate on projects as back-end developer.  
 📫 You can reach me at [linkedin](https://www.linkedin.com/in/clarissa-leal/).
