@@ -1,4 +1,4 @@
-### Hello, World! 👋
+## Hello, World! 👋🏽
 
 <img align='right' src="https://media.giphy.com/media/xThta0yq8q9JwHL8kg/giphy.gif" width="240">  
 
@@ -6,7 +6,7 @@
 let cla = {
   pronouns: ["she", "her"],
   code: JavaScript,
-  techSkills: ["Node", "Express", "MongoDB", "Postman", "Heroku"],
+  techSkills: ["Node", "Express", "MongoDB", "Postman", "Heroku", "Linux"],
   languages: ["Portuguese", "English", "French"],
   techCommunities: {
     coorganizer: "Dev Girls",
