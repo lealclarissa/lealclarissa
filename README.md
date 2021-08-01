@@ -1,34 +1,28 @@
-### Hi there/Olá! 👋
+### Hello, World! 👋
 
-🌱 I've started developing during @reprograma 's bootcamp (backend on7 with MINAs | aug - dec/20).   
-🔭 I'm currently taking Harvard's CS50's classes.  
-💗 I consider myself as a lifelong learner.  
-👯 I’m looking to collaborate on projects as back-end developer.  
-📫 You can reach me at [linkedin](https://www.linkedin.com/in/clarissa-leal/).
+<img align='right' src="https://media.giphy.com/media/xThta0yq8q9JwHL8kg/giphy.gif" width="245">  
 
+```js
+let cla = {
+  pronouns: ["she", "her"],
+  code: JavaScript,
+  techSkills: ["Node", "Express", "MongoDB", "Postman", "Heroku"],
+  languages: ["Portuguese", "English", "French"],
+  techCommunities: {
+    coorganizer: "Dev Girls",
+    monitoring: "reprograma",
+  },
+  studies: "I'm currently taking Harvard's CS50's classes",
+  funFact: "I have a bachelor's degree in Gastronomy and Food Security",
+};
+```
 __________________________
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180em" align="center"  src="https://github-readme-stats.vercel.app/api?username=lealclarissa&count_private=true&show_icons=true&theme=nightowl&hide_border=false&include_all_commits=true&layout=compact&)" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lealclarissa&langs_count=8&layout=compact&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&)" />
-</a>  
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lealclarissa&label=Profile%20views&color=blueviolet&style=flat-square" alt="lealclarissa"/>
-</p>
-
-<!--
-**lealclarissa/lealclarissa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <a href="https://github.com/lealclarissa">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lealclarissa&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+</div>  
+  
+<div style="display: incline_block"><br>    
+    <a href="https://www.linkedin.com/in/clarissa-leal/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
