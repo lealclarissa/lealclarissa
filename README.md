@@ -1,6 +1,6 @@
 ### Hello, World! 👋
 
-<img align='right' src="https://media.giphy.com/media/xThta0yq8q9JwHL8kg/giphy.gif" width="245">  
+<img align='right' src="https://media.giphy.com/media/xThta0yq8q9JwHL8kg/giphy.gif" width="240">  
 
 ```js
 let cla = {
