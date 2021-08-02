@@ -1,6 +1,6 @@
 ## Hello, World! 👋🏽
 
-<img align='right' src="https://media.giphy.com/media/xThta0yq8q9JwHL8kg/giphy.gif" width="240">  
+<img align='right' src="https://media.giphy.com/media/xThta0yq8q9JwHL8kg/giphy.gif" width="230">  
 
 ```js
 let cla = {
@@ -14,6 +14,7 @@ let cla = {
   },
   studies: "I'm currently taking Harvard's CS50's classes",
   funFact: "I have a bachelor's degree in Gastronomy and Food Security",
+  coffeeLover: true,
 };
 ```
 __________________________
