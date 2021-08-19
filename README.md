@@ -12,7 +12,7 @@ let cla = {
     coorganizer: "Dev Girls",
     monitoring: "reprograma",
   },
-  studies: "I'm currently taking Harvard's CS50's classes",
+  studies: "I'm currently learning Golang and taking Harvard's CS50's classes",
   funFact: "I have a bachelor's degree in Gastronomy and Food Security",
   coffeeLover: true,
 };
