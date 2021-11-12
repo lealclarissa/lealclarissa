@@ -6,7 +6,7 @@
 let cla = {
   pronouns: ["she", "her"],
   code: "Golang",
-  techSkills: ["JavaScript", "Node", "Express", "MongoDB", "Postman", "Linux"],
+  techSkills: ["JavaScript", "Node", "Express", "MongoDB", "Postman", "PostgreSQL"],
   languages: ["Portuguese", "English", "French"],
   techCommunities: {
     coorganizer: "Dev Girls",
