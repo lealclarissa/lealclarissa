@@ -5,8 +5,8 @@
 ```js
 let cla = {
   pronouns: ["she", "her"],
-  code: JavaScript,
-  techSkills: ["Node", "Express", "MongoDB", "Postman", "Heroku", "Linux"],
+  code: "Golang",
+  techSkills: ["JavaScript", "Node", "Express", "MongoDB", "Postman", "Linux"],
   languages: ["Portuguese", "English", "French"],
   techCommunities: {
     coorganizer: "Dev Girls",
